@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on different projects like based on Python,PowerBI,Excel etc.
 
 - 📫 How to reach me just click here
-   - for Github - https://github.com/RahulSharmaAnalyst
-   - Linkdin - www.linkedin.com/in/rahul-sharma-5174b4307
+   - Github - https://github.com/RahulSharmaAnalyst
+   - Linkedin - www.linkedin.com/in/rahul-sharma-5174b4307
  
 - 😄 Pronouns: Rahul the Analyst
 - ⚡ Fun fact: You are here now😄
