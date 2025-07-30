@@ -5,11 +5,13 @@ Explore my projects on different skills, tools and different domains analysis. I
 I love solving real-world problems through data. My projects focus on revenue optimization, booking trends, and visual storytelling. 
 Fluent in Excel formulas, DAX, and stakeholder-ready reporting. Always learning, always iterating.
 
-📫 Follow Me (click here)
+<p align="center">📫 Follow Me (click here)
 - Github - https://github.com/RahulSharmaAnalyst
 - Linkedin - www.linkedin.com/in/rahul-sharma-5174b4307
 - Instagram - www.instagram.com/rahultheanalyst
-<!---
+</p>
+  
+  <!---
 RahulSharmaAnalyst/RahulSharmaAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
