@@ -1,4 +1,5 @@
-<center> 🔍 Data Analyst | 📈 Power BI Enthusiast | 🐍 Python Practitioner | 💻SQL Learner | 🔢 MS-Excel Specialist  </center><br>
+<p align="center"> 🔍 Data Analyst | 📈 Power BI Enthusiast | 🐍 Python Practitioner | 💻SQL Learner | 🔢 MS-Excel Specialist  </p>
+<br>
 
 Welcome to my GitHub! I'm Rahul Sharma, a data analyst with a knack for turning complex datasets into clear, compelling dashboards. Explore my projects on different skills, tools and different domains analysis. I believe in making data accessible, actionable, and beautiful.
 I love solving real-world problems through data. My projects focus on revenue optimization, booking trends, and visual storytelling. Fluent in Excel formulas, DAX, and stakeholder-ready reporting. Always learning, always iterating.
