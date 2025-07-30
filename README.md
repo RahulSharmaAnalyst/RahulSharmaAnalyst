@@ -7,11 +7,11 @@ I love solving real-world problems through data. My projects focus on revenue op
 Fluent in Excel formulas, DAX, and stakeholder-ready reporting. Always learning, always iterating.
 <br>
 
-📫 Follow Me (click here) <br>
+<p align="center">📫 Follow Me (click here) <br>
 - Github - https://github.com/RahulSharmaAnalyst <br>
 - Linkedin - www.linkedin.com/in/rahul-sharma-5174b4307 <br>
 - Instagram - www.instagram.com/rahultheanalyst
-  
+</p>
   <!---
 RahulSharmaAnalyst/RahulSharmaAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
