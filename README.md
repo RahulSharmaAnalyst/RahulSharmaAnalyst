@@ -6,8 +6,8 @@ Explore my projects on different skills, tools and different domains analysis. I
 I love solving real-world problems through data. My projects focus on revenue optimization, booking trends, and visual storytelling. 
 Fluent in Excel formulas, DAX, and stakeholder-ready reporting. Always learning, always iterating.
 <br>
-
-<p align="center">📫 Follow Me (click here) <br>
+<br>
+<p align="center">📫 FOLLOW ME (click here) <br>
 - Github - https://github.com/RahulSharmaAnalyst <br>
 - Linkedin - www.linkedin.com/in/rahul-sharma-5174b4307 <br>
 - Instagram - www.instagram.com/rahultheanalyst
