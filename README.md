@@ -6,8 +6,8 @@ I love solving real-world problems through data. My projects focus on revenue op
 Fluent in Excel formulas, DAX, and stakeholder-ready reporting. Always learning, always iterating.
 
 <p align="center">📫 Follow Me (click here)
-- Github - https://github.com/RahulSharmaAnalyst
-- Linkedin - www.linkedin.com/in/rahul-sharma-5174b4307
+- Github - https://github.com/RahulSharmaAnalyst <br>
+- Linkedin - www.linkedin.com/in/rahul-sharma-5174b4307 <br>
 - Instagram - www.instagram.com/rahultheanalyst
 </p>
   
